@@ -1,3 +1,4 @@
-# mhBrice.github.io
+# LaboBrice.github.io
 
-[![github pages](https://github.com/mhBrice/mhBrice.github.io/actions/workflows/deploy.yaml/badge.svg)](https://github.com/mhBrice/mhBrice.github.io/actions/workflows/deploy.yaml)
+[![pages-build-deployment](https://github.com/LaboBrice/LaboBrice.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/LaboBrice/LaboBrice.github.io/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/LaboBrice/LaboBrice.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/LaboBrice/LaboBrice.github.io/actions/workflows/pages/pages-build-deployment)
